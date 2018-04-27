@@ -2,7 +2,7 @@
 author = "Cody Jorgensen"
 categories = ["Intellitech"]
 tags = ["Machine Learning"]
-date = "April 25th, 2018"
+date = "2018-04-25"
 description = "My First Machine Learning Model"
 featured = "machine.png"
 featuredalt = "machine.png"

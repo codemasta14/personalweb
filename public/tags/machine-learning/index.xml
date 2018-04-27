@@ -6,6 +6,7 @@
     <description>Recent content in Machine Learning on Unabatedly Eigen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>My First Machine Learning Model</title>
       <link>/blog/2018-04-27-linkedin-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018-04-27-linkedin-post/</guid>
       <description>Hi I&amp;rsquo;m Cody</description>
