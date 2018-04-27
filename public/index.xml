@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect</title>
+    <title>Unabatedly Eigen</title>
     <link>/</link>
-    <description>Recent content on Hugo Future Imperfect</description>
+    <description>Recent content on Unabatedly Eigen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
@@ -110,6 +110,15 @@ With Jekyll, something that looked like&lt;/p&gt;
     ▾ images/
         logo.png
 &lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/2018-04-27-linkedin-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-04-27-linkedin-post/</guid>
+      <description></description>
     </item>
     
   </channel>
