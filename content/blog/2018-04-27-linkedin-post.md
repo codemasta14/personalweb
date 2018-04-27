@@ -1,7 +1,7 @@
 +++
 author = "Cody Jorgensen"
-categories = ["Intellitech"]
-tags = ["Machine Learning"]
+categories = ["Internship"]
+tags = ["Machine Learning", "LinkedIn"]
 date = "2018-04-25"
 description = "My First Machine Learning Model"
 featured = "machine.jpg"
