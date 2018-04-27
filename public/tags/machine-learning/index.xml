@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Unabatedly Eigen</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Unabatedly Eigen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Machine Learning Model</title>
+      <link>/blog/2018-04-27-linkedin-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-04-27-linkedin-post/</guid>
+      <description>Hi I&amp;rsquo;m Cody</description>
+    </item>
+    
+  </channel>
+</rss>
