@@ -195,3 +195,4 @@ canonifyURLs = true
   researchgate     = ""
   # Email
   email            = "Codemasta14@gmail.com"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
