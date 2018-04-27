@@ -24,7 +24,7 @@
         "datePublished": "2014-09-28 00:00:00 &#43;0000 UTC",
         "dateModified" : "2014-09-28 00:00:00 &#43;0000 UTC",
         "url" : "/blog/creating-a-new-theme/",
-        "wordCount" : "7252",
+        "wordCount" : "7196",
         "keywords" : [ "tutorial","Blog" ]
     }
     </script>
@@ -84,7 +84,7 @@
 
 <meta itemprop="datePublished" content="2014-09-28T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2014-09-28T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="7252">
+<meta itemprop="wordCount" content="7196">
 
 
 
@@ -385,7 +385,7 @@
         
 
         <a href="/blog/hugoisforlovers/" class="image featured">
-            <img src="/img/2014/04/pic01.jpg" alt="">
+            <img src="/date2014/04/pic01.jpg" alt="">
         </a>
     
 
@@ -515,7 +515,7 @@
             September 28, 2014</time>
         <span class="author">Theme author</span>
         
-            <p>35 minute read</p>
+            <p>34 minute read</p>
         
         
     </div>
@@ -632,7 +632,7 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.</p>
+<p>Wow I actually changed something!</p>
 
 <p>We&rsquo;ll start with creating a new site with a very basic template. Then we&rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.</p>
 
@@ -1570,7 +1570,7 @@ i'm speechless
     &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/first-post/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
 &lt;script&gt;document.write('&lt;script src=&quot;http://'
         + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
+        + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
         + 'script&gt;')&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
@@ -1617,8 +1617,8 @@ i'm speechless
 
 <pre><code>$ vi config.toml
 [permalinks]
-	page = &quot;/:title/&quot;
-	about = &quot;/:filename/&quot;
+    page = &quot;/:title/&quot;
+    about = &quot;/:filename/&quot;
 </code></pre>
 
 <p>Generate the web site and verify that this didn&rsquo;t work. Hugo lets &ldquo;slug&rdquo; or &ldquo;URL&rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.</p>
@@ -1637,7 +1637,7 @@ i'm speechless
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-	&lt;title&gt;{{ .Title }}&lt;/title&gt;
+    &lt;title&gt;{{ .Title }}&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
 :wq
@@ -1835,9 +1835,6 @@ $ vi themes/zafta/layouts/_default/single.html
                 class="button big previous">(Hu)go Template Primer</a></li>
     
 
-    
-        <li><a href="/blog/2015-07-23-r-rmarkdown/"
-                class="button big next">Hello R Markdown</a></li>
     
 </ul>
 
@@ -2177,17 +2174,6 @@ $ vi themes/zafta/layouts/_default/single.html
             <header>
               
                 <a href="/categories/jekyll/">Jekyll</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="/categories/r/">R</a>
                 <span style="float:right;">1</span>
               
             </header>
