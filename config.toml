@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Just a kid trying to figure out how the world works."
 
-  about     = "Cody is a data scientist trying to learn all that there is to learn."
+  about     = "Cody is a data scientist trying to learn, and having a lot of fun along the way."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -127,12 +127,6 @@ canonifyURLs = true
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
-
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
 
 [[menu.main]]
   name = "Categories"

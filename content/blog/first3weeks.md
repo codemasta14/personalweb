@@ -12,7 +12,7 @@ title = "A Vestibule For Expansion"
 type = "post"
 
 +++
-![]
+
 # A Vestibule For Expansion
   April 16th, 2018, A young bare faced boy jaunted into his new workplace. Greeted warmly, he proceeded to receive a tour of this strange new environment. After a brief overview of the facility, he was led to his new office. Yes, his very own office. With his own computer, and desk. This was a monumentally novel experience. To have ones own office was indeed strange, yet added only to the excitement of the experience. This very office, in all reality a repurposed storage room, would soon come to be known as the Vestibule for Expansion. Indeed a vestibule in that it was an entryway, and by expansion, it is meant an expansion of the mind, heart, and beard of that youthful soul that had entered in. I am that youth, and it is my hope that throughout this blog you and I both will see the change that I go through as I'm having my first real experience in data science. 
 
