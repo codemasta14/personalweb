@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/first3weeks/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2018-04-27-linkedin-post/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
@@ -16,8 +21,14 @@
   </url>
   
   <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -32,7 +43,7 @@
   
   <url>
     <loc>/categories/internship/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,19 +55,25 @@
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
