@@ -2,7 +2,7 @@
 author = "Cody Jorgensen"
 categories = ["Internship"]
 tags = ["Machine Learning", "R"]
-date = "2018-05-07"
+date = "2018-06-12"
 description = "Exhibition in The Fish Bowl"
 featured = "fishbowl.jpg"
 featuredalt = ""

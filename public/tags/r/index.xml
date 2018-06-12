@@ -6,10 +6,19 @@
     <description>Recent content in R on Unabatedly Eigen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exhibition in The Fish Bowl</title>
+      <link>/blog/presentation/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/presentation/</guid>
+      <description>Fishes Make Silly Pets A fish is an interesting choice for a pet. Given it&amp;rsquo;s incessant need for water, and inability to maneuver on the dry ground, you can&amp;rsquo;t play with it. Fish don&amp;rsquo;t have distinguishable emotions, or perhaps any emotions at all, so it can be difficult to attempt to project emotions upon them. Also, no cute girl is ever going to come up to you and ask if she can pet your fish, while walking your companion through the park.</description>
+    </item>
     
     <item>
       <title>A Vestibule For Expansion</title>
@@ -18,15 +27,6 @@
       
       <guid>/blog/first3weeks/</guid>
       <description>A Vestibule For Expansion April 16th, 2018, A young bare faced boy jaunted into his new workplace. Greeted warmly, he proceeded to receive a tour of this strange new environment. After a brief overview of the facility, he was led to his new office. Yes, his very own office. With his own computer, and desk. This was a monumentally novel experience. To have ones own office was indeed strange, yet added only to the excitement of the experience.</description>
-    </item>
-    
-    <item>
-      <title>Exhibition in The Fish Bowl</title>
-      <link>/blog/presentation/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/presentation/</guid>
-      <description>Fishes Make Silly Pets A fish is an interesting choice for a pet. Given it&amp;rsquo;s incessant need for water, and inability to maneuver on the dry ground, you can&amp;rsquo;t play with it. Fish don&amp;rsquo;t have distinguishable emotions, or perhaps any emotions at all, so it can be difficult to attempt to project emotions upon them. Also, no cute girl is ever going to come up to you and ask if she can pet your fish, while walking your companion through the park.</description>
     </item>
     
   </channel>

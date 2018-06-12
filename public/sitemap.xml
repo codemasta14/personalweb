@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/first3weeks/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <loc>/blog/presentation/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/presentation/</loc>
+    <loc>/blog/first3weeks/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +33,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +48,7 @@
   
   <url>
     <loc>/categories/internship/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,13 +60,13 @@
   
   <url>
     <loc>/tags/machine-learning/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,7 +78,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
