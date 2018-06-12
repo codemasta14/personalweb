@@ -21,7 +21,7 @@ A fish is an interesting choice for a pet. Given it's incessant need for water, 
 
 I was asked in my internship to give a presentation to the executive board of the company concerning the work I had done in the previous month. This was going to be my opportunity both to practice presenting my work, and also for very valuable observation and feedback. The meeting was to take place in a conference room, which is surrounded by windows on all sides. This truly was, in a physical sense, as well as a metaphorical sense, a fish bowl. I was to be observed, and potentially if I was to do well, admired. I was determined to do a phenomenal job.
 
-#What is Going On
+### Gameplan
 
 If you haven't read any of my previous posts, most of my work I've done so far has been to build a model to predict the outcome of an account held by a debt collection agency, ie whether or not someone was going to pay. This required a massive amount of data wrangling, variable reduction and pre processing, but I was able to do so using a Random Forest Model. I prepared a R presentation slideshow and decided that an appropriate way to present was to briefly explain how decision trees and Random Forests worked. To do this I built a custom data set of shapes, and created visualizations that walked through a decision tree, showing how at each split entropy decreased. I then explained to them  how a Random Forest consisted of hundreds of decision trees built from samples of the object data. I created a few visualizations of the results of my random forest, and was excited to share them with my superiors.
 
