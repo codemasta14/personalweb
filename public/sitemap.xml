@@ -3,35 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/presentation/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/first3weeks/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018-04-27-linkedin-post/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/first3weeks/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/big-data/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -39,22 +10,18 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/internship/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/linkedin/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <loc>/blog/presentation/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/internship/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +39,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,6 +47,41 @@
     <loc>/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/first3weeks/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/linkedin/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2018-04-27-linkedin-post/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/first3weeks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>
