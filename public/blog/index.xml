@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Unabatedly Eigen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random Adversarial Attacks Aren&#39;t So Random</title>
+      <link>/blog/adversary/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/adversary/</guid>
+      <description>The paper I will be writing will go here.</description>
+    </item>
     
     <item>
       <title>Exhibition in The Fish Bowl</title>
@@ -36,15 +45,6 @@
       
       <guid>/blog/2018-04-27-linkedin-post/</guid>
       <description>These last two weeks I&amp;rsquo;ve been extremely overwhelmed with my new internship. I showed up ready to use some of my powerful statistics and visualization skills, and within a few hours of playing with data realized that most of what I knew wasn&amp;rsquo;t going to be applicable to my work. As I scrambled to find solutions to my problems, and new methods to approach my task at hand, I very quickly realized that in order to succeed I was going to need to teach myself some machine learning skills.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/blog/first3weeks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/first3weeks/</guid>
-      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
