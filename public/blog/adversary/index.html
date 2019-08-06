@@ -24,7 +24,7 @@
         "datePublished": "2019-07-18 00:00:00 \x2b0000 UTC",
         "dateModified" : "2019-07-18 00:00:00 \x2b0000 UTC",
         "url" : "\/blog\/adversary\/",
-        "wordCount" : "1790",
+        "wordCount" : "1789",
         "keywords" : [ "Machine Learning","Python","Blog" ]
     }
     </script>
@@ -70,7 +70,7 @@
 
 <meta itemprop="datePublished" content="2019-07-18T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-07-18T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="1790">
+<meta itemprop="wordCount" content="1789">
 
 
 
@@ -279,7 +279,7 @@
         
 
         <a href="/blog/adversary/" class="image featured">
-            <img src="/img/2019/072019/07/poster.png" alt="">
+            <img src="/img/2019/07/poster.png" alt="">
         </a>
     
 
@@ -318,7 +318,7 @@
         
 
         <a href="/blog/presentation/" class="image featured">
-            <img src="/img/2018/062018/06/fishbowl.jpg" alt="">
+            <img src="/img/2018/06/fishbowl.jpg" alt="">
         </a>
     
 
@@ -499,7 +499,8 @@
   <header>
     <div class="title">
         
-            <h2><a href="/blog/adversary/">A statistical approach to discerning adversarial attacks</a></h2>
+            <h1><a href="/blog/adversary/">A statistical approach to discerning adversarial attacks</a></h1>
+            
         
         
             <p>The report on the research I did at ORNL</p>
@@ -620,7 +621,7 @@
         
 
         <a href="/blog/adversary/" class="image featured">
-            <img src="/img/2019/07/poster.png" alt="">
+            <img src="/img/2019/072019/07/poster.png" alt="">
         </a>
     
 
@@ -640,8 +641,7 @@ Then I compared the histograms of the softmax outputs of my networks.
 Originally my Neural Network predicted with 98% accuracy on the testing dataset. But with my random samples, it now was only 26% accurate. Using my adversarial data, my neural network was only correct 16% of the time. Simply looking at the numbers you can see that 26% and 16% is different, but when it comes to the credibility of the model, dropping from 98% to either number has the same effect. It effectively causes the model to be useless.
 Simply seeing a drop in accuracy in a network could come from a variety of things, from sensor noise, to new types of data. Not necessarily an adversarial attack. I originally hypothesized that the histograms of the softmax outputs would be stochastically different depending on if they were random, or adversarial examples. More scientific methods of determining if they are different such as a Chi-squared test, or other tests of distributions are available, but I was not able in my limited time to perform them. So I based my conclusions upon what I could see. When I created the histograms, I found that the adversarial examples seemed to come from more of a uniform distribution. The random examples were much more random in their distributions. It was very obvious to see that there was a difference. So let’s say that some brilliant ecological scientist developed a network to identify different types of birds in an area to study the effects of a new power plant on wildlife. This scientist suddenly notices a large change in the consistency of birds it identifies. The scientist would have several conclusions they would have to work through. The birds could actually be different, being a monumental breakthrough in their study. The camera may have been slightly damaged, warranting a repair or replacement. Or perhaps the owners of the powerplant do not want the truth to be uncovered, and have used an adversarial attack to try and support what they want your conclusion to be. With my results, by looking at the distributions of the outputs, you could tell which was the true case, and take appropriate actions.
  Given the short period of my research there are many ideas that I had that I wasn’t able to fully develop. For the rest of my paper I will discuss some of those thoughts, and further research that I will be doing in the future. I found that using such a simple dataset, with such a shallow network as I have been using (Less than 10 layers), the random noise needed to be quite extreme in order to produce images that were misclassified. Extreme enough that it was visible to the human eye. The random noise was created from a uniform distribution between -1 and 1. However, I believe that a better way to generate the random noise would be from a normal distribution of mean 0, and standard deviation .5 with an afterwards clamping of the data so that it remains between 0 and 1. (Which is the range of our testing data) I also believe that using a more complex neural network, along with more complex images such as imagenet, or maybe even just one of the CIFAR datasets would yield results that are less visually apparent to the human eye. Along this same path, I would love to create my own dataset of images, and train them on a network. Then rather than adding artificial noise, slightly change the focus of the camera on another set of images. Thus making a more practical application of noise that would be present in a real life scenario. Then I would create adversarial attacks of my own and compare them. Another problem with my research that I want to elaborate on is the one dimensional approach to my attacks. I used only a white box gradient approach to create my adversarial examples. I am vaguely aware of other approaches such as the one or two pixel attacks, as well as several other white and black box approaches. In my eventual goal of creating neural networks that are more robust to attacks, my solution would need to be able to detect multiple types of attacks. On a similar note, I mentioned earlier that my approach in creating my attacks was to recursively take the gradient 50 times. This doesn’t sit right with me. I want to do some research and prove whether or not taking the gradient recursively 50 times is not the same as multiplying my delta by 50. In my mind the gradient would be the same for each image. Perhaps changing in magnitude, but not in direction. The reason that I share all of these ideas in this paper is because there is much more work for me to do than I could possibly begin to understand in the short 10 weeks I had at Oak Ridge National Laboratory. I couldn’t find 1500 words of what I’ve done to share, and much rather than fluff what I have, I’d rather share about what I’m excited to continue to do. This opportunity has fueled my scientific spirit. I will continue to go on and research.
- All code for my research can be accessed via my github repository. However it is extremely messy. I&rsquo;m sorry for that.
- www.github.com/codemasta14/summer_work</p>
+ All code for my research can be accessed via my <a href="www.github.com/codemasta14/summer_2019">github repository</a>. However it is extremely messy. I&rsquo;m sorry for that.</p>
 
   </div>
 
