@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Random Adversarial Attacks Aren&#39;t So Random</title>
+      <title>A statistical approach to discerning adversarial attacks</title>
       <link>/blog/adversary/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/adversary/</guid>
-      <description>The paper I will be writing will go here.</description>
+      <description>A neural network is a computer algorithm that uses calculus to, make predictions from a given set of parameters, either as a number(linear regression) or as a class(classification). One of the most useful cases of a Neural network is in image classification. In this project we use a statistical approach to identify the differences between white box adversarial attacks, black box adversarial attacks, and random noise. An adversarial attack consists of changing the pixels of input images to change a neural network’s prediction.</description>
     </item>
     
     <item>
